@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Generated analysis outputs (regenerate via the scripts; the comparison
+# plot is committed deliberately since the READMEs embed it)
+python-coulomb-counting/coulomb_soc.csv
+python-coulomb-counting/coulomb_soc.png
+python-kalman/ekf_soc.csv
